@@ -58,15 +58,13 @@ toplama süreciniz,
 nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
 bunun için hangi araç ya da yazılımları kullandığınız,
 * Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+
 Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
 önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  Örneğin  bi
-r  voltmetre  kullanılıyorsa  bunun  ölçme  aralığı  2
--
-220   V,   3,5   basamak 
-göstergeli, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren b
-ir cam plaka şeklinde tanımlanması 
+özellikleri  belirtilmelidir.  
+
+Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
+levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
 uygun olacaktır. 
 
 * Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
@@ -75,3 +73,6 @@ a çalışılan
 laboratuvarın özellikleri de belirtilmelidir. 
 
 * Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
+
+# Sonuç
+Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. 
