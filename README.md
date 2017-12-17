@@ -14,15 +14,17 @@ Hatta başarısız olmanız doğaldır. Belki de birkaç kere başarısız olaca
 Edison ampülü bulmak için en az 1000 kere başarısız oldu. Bir gazeteci "Bin kere nasıl başarısız oldunuz?" diye sorduğunda, 
 Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" diye cevaplamıştır. 
 
-1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Buna benzer olarak projenizi yazmaya çalışacaksınız. (http://www.edu.pe.ca/threeoaks/departments/science/resources/Formal_Lab_Report_Guidelines.pdf ) Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. Yapacağınız deney için benzer bir "Materyal ve Yöntem" başlığı yazınız. 500 kelimeyi geçmeyecek şekilde bu başlığı doldurunuz. 
+1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Buna benzer olarak projenizi yazmaya çalışacaksınız. (http://www.edu.pe.ca/threeoaks/departments/science/resources/Formal_Lab_Report_Guidelines.pdf ). Daha detaylı örnek bir rapor için daha önce yazılmış bir IYPT raporunu örnek alabilirsiniz (http://iyptmag.phy.ntnu.edu.tw/upload/journal/prog/51e0fdd3_20140702.pdf) Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. Yapacağınız deney için benzer bir "Materyal ve Yöntem" başlığı yazınız. 500 kelimeyi geçmeyecek şekilde bu başlığı doldurunuz. 
+
+Daha kapsamlı bir ödev için daha önce yapılmış 
 2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
 3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. Deney başaralı veya başarısız da olabilir. Önemli olan bir deney yapmanız ve bu deneyin videosunu ve resimlerini github hesabına yüklemeniz gerekmektedir. 
 
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
-# Özet
-Buraya 
-# Giriş 
+# Özet (Abstract)
+Buraya Ödev-1'de yazdığınız özeti yazınız. 
+# Giriş (Introduction)
 Bu bölüm; 
 literatür
 taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
@@ -43,7 +45,7 @@ literatürde
 yer  alan 
 benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
 çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
-# Materyal ve Yöntem
+# Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
 ra ve alt başlıklara yer verilir
@@ -74,5 +76,10 @@ laboratuvarın özellikleri de belirtilmelidir.
 
 * Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
 
-# Sonuç
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. 
+# Bulgular (Results)
+Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. 
+
+# Sonuç ve Tartışma (Conclusion and Discussion) 
+Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
+
+
