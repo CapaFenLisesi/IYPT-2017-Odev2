@@ -23,4 +23,27 @@ Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" 
 # Özet
 
 # Giriş 
-
+Bu bölüm; 
+literatür
+taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
+hipotezler, varsayımlar (
+yapılan kabuller
+), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
+Bu bölümde
+literatür
+araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
+konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
+diğer 
+benzer çalışmalardan ayrılan 
+yönlerini belirtiniz. Bu çalışmayı, 
+literatürde
+ki 
+hangi boşluğu doldurmak için yaptığınızı ve 
+literatürde
+yer  alan 
+benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
+çalışmanızın neleri hedeflediğini açıklayınız. Bu kısımda mutlaka bu ş
+ablonun sonunda belirtilen kurallara göre 
+(Öncelikle proje kendi 
+dalınızda
+verilen örnek projedeki kurallara göre) kaynakça gösterimi yapınız.
