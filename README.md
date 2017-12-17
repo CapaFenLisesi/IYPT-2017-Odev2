@@ -1,4 +1,5 @@
-
+#Ödev Dönüş Tarihi
+**Ödev dönüş tarihi 10 Ocak 2018 Çarşamba günüdür.** Yapacağınız IYPT projeniz ikinci dönemde de devam edecektir. Projenin bütünüyle tamamlanma tarihi 10 Mayıs 2017'dir. 
 
 # Ödev-2 Yönergeleri 
 1. Odev2'yi grup hesabınıza fork ediniz. 
@@ -13,6 +14,13 @@ Hatta başarısız olmanız doğaldır. Belki de birkaç kere başarısız olaca
 Edison ampülü bulmak için en az 1000 kere başarısız oldu. Bir gazeteci "Bin kere nasıl başarısız oldunuz?" diye sorduğunda, 
 Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" diye cevaplamıştır. 
 
-1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Buna benzer olarak projenizi yazmaya çalışacaksınız. (http://www.edu.pe.ca/threeoaks/departments/science/resources/Formal_Lab_Report_Guidelines.pdf ) Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. 
+1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Buna benzer olarak projenizi yazmaya çalışacaksınız. (http://www.edu.pe.ca/threeoaks/departments/science/resources/Formal_Lab_Report_Guidelines.pdf ) Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. Yapacağınız deney için benzer bir "Materyal ve Yöntem" başlığı yazınız. 500 kelimeyi geçmeyecek şekilde bu başlığı doldurunuz. 
 2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
-3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. 
+3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. Deney başaralı veya başarısız da olabilir. Önemli olan bir deney yapmanız ve bu deneyin videosunu ve resimlerini github hesabına yüklemeniz gerekmektedir. 
+
+## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
+
+# Özet
+
+# Giriş 
+
