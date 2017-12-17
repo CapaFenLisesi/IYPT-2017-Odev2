@@ -77,9 +77,10 @@ laboratuvarın özellikleri de belirtilmelidir.
 * Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
 
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın.
+Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
 
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. 
+Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
+
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
