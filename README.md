@@ -52,15 +52,12 @@ ra ve alt başlıklara yer verilir
 * Çalışma  grubunuz,  evreniniz,  örnekleminiz 
 (çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
 sahanız, yeriniz ve bunların özellikleri,
-
-Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
+* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
 toplama süreciniz,
-
-Gözlemlerinizi, saha çalışmalarınızı ve bu
+* Gözlemlerinizi, saha çalışmalarınızı ve bu
 nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
 bunun için hangi araç ya da yazılımları kullandığınız,
-
-Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
 Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
 önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
 özellikleri  belirtilmelidir.  Örneğin  bi
@@ -71,10 +68,10 @@ göstergeli, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya d
 levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren b
 ir cam plaka şeklinde tanımlanması 
 uygun olacaktır. 
-
-Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
+
+* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
 tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
 a çalışılan 
 laboratuvarın özellikleri de belirtilmelidir. 
-
-Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
+
+* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
